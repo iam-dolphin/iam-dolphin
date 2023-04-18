@@ -44,7 +44,7 @@
 ### 开源项目
 [![](https://github-readme-stats.vercel.app/api/pin/?username=iam-dolphin&repo=hexo-theme-Fomalhaut&theme=tokyonight)](https://github.com/iam-dolphin/hexo-theme-Fomalhaut)
 &emsp;&emsp;
-[![](https://github-readme-stats.vercel.app/api/pin/?username=iam-dolphin&repo=fomalhaut1998.github.io&theme=tokyonight)](https://github.com/iam-dolphin/fomalhaut1998.github.io)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=iam-dolphin&repo=fomalhaut1998.github.io&theme=tokyonight)](https://github.com/iam-dolphin/iam-dolphin.github.io)
 <br>
 
 <!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=fomalhaut1998&repo=DeleteSpace_and_Translation&theme=tokyonight)](https://github.com/fomalhaut1998/DeleteSpace_and_Translation)
