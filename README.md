@@ -6,7 +6,7 @@
 
 <div><img align="right" alt="GIF" src="https://s1.xptou.com/2022/09/12/631f3e79ece3d.webp" width="300" height="100%" /></div>
 
-- 大家好，我是dolphin🥝，来自湖北恩施
+- 大家好，我是🥝，来自湖北恩施
 - 目前是一名计算机在读高中生
 - 对数据结构与算法、前端、Linux驱动感兴趣
 - 欢迎光临我的Github 🍧
