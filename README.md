@@ -16,7 +16,7 @@
 
 
 
-- <a href="https://www.lenhe.top"><img height="22" width="22" src="https://github.githubassets.com/images/mona-loading-dark.gif"></a>：个人网站，访问量累计30万+
+- <a href="https://iam-dolphin.github.io/"><img height="22" width="22" src="https://github.githubassets.com/images/mona-loading-dark.gif"></a>：个人网站，访问量累计30万+
 - <a href="https://www.kuaishou.com/profile/3xchwi46hcvkqe2"><img height="22" width="22" src="https://s2-11673.kwimgs.com/udata/pkg/fe/favicon.70ff1fcc.ico"></a>：快手主页，播放量500万+，粉丝累计3.9万+
 - <a href="https://blog.csdn.net/qq_60274579/"><img height="22" width="22" src="https://g.csdnimg.cn/static/logo/favicon32.ico"></a>：CSDN主页，粉丝累计100+
 
@@ -68,6 +68,6 @@
 
 ### 投喂作者🍭🍭🍭
 
-<a href="https://www.fomal.cc/personal/about/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="投喂作者🍭" style="height: 40px !important;width: 145px !important;" ></a>
+<a href="https://iam-dolphin.github.io/personal/about/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="投喂作者🍭" style="height: 40px !important;width: 145px !important;" ></a>
 
 <br>
