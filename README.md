@@ -1,12 +1,12 @@
 <img align="right" src="https://count.getloli.com/get/@:fomalhaut1998?theme=moebooru">
 
-## 一只低调的小海豚—Fomalhaut🥝 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> 
+## 一只低调的小海豚—dolphin🥝 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> 
 
 ### 自我介绍
 
 <div><img align="right" alt="GIF" src="https://s1.xptou.com/2022/09/12/631f3e79ece3d.webp" width="300" height="100%" /></div>
 
-- 大家好，我是🥝，来自湖北恩施
+- 大家好，我是dolphin🥝，来自湖北恩施
 - 目前是一名计算机在读高中生
 - 对数据结构与算法、前端、Linux驱动感兴趣
 - 欢迎光临我的Github 🍧
@@ -17,7 +17,7 @@
 
 
 - <a href="https://www.lenhe.top"><img height="22" width="22" src="https://github.githubassets.com/images/mona-loading-dark.gif"></a>：个人网站，访问量累计30万+
-- <a href="https://www.kuaishou.com/profile/3xchwi46hcvkqe2"><img height="22" width="22" src="https://s2-11673.kwimgs.com/udata/pkg/fe/favicon.70ff1fcc.ico"></a>：Bilibili主页，播放量10万+，粉丝累计1400+
+- <a href="https://www.kuaishou.com/profile/3xchwi46hcvkqe2"><img height="22" width="22" src="https://s2-11673.kwimgs.com/udata/pkg/fe/favicon.70ff1fcc.ico"></a>：快手主页，播放量500万+，粉丝累计3.9万+
 - <a href="https://blog.csdn.net/qq_60274579/"><img height="22" width="22" src="https://g.csdnimg.cn/static/logo/favicon32.ico"></a>：CSDN主页，粉丝累计100+
 
 
