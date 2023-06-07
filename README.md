@@ -58,7 +58,7 @@
 ![fomalhaut1998's github stats](https://github-readme-stats.vercel.app/api?username=iam-dolphin&show_icons=true&theme=tokyonight)
 
 ### Github 贡献图
-[![fomalhaut1998's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iam-dolphin&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![iam-dolphin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iam-dolphin&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
